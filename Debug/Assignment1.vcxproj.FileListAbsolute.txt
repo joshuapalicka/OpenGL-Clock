@@ -1,0 +1,6 @@
+E:\OneDrive - Seattle University\Desktop\School\Computer Graphics\Assignments\Assignment1\Debug\Clock.exe
+E:\OneDrive - Seattle University\Desktop\School\Computer Graphics\Assignments\Assignment1\Debug\Clock.pdb
+E:\GraphicsDir\Assignments\Assignment1\Debug\Clock.exe
+E:\GraphicsDir\Assignments\Assignment1\Debug\Clock.pdb
+E:\GraphicsDir\Assignments\ClockProject\Debug\Clock.exe
+E:\GraphicsDir\Assignments\ClockProject\Debug\Clock.pdb
