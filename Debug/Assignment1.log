@@ -1,4 +1,4 @@
 ﻿E:\Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Assignment1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   MovingClock.cpp
-E:\GraphicsDir\Assignments\ClockProject\MovingClock.cpp(73): warning C4715: 'getTime': not all control paths return a value
+E:\GraphicsDir\Assignments\ClockProject\MovingClock.cpp(79): warning C4715: 'getTime': not all control paths return a value
   Assignment1.vcxproj -> E:\GraphicsDir\Assignments\ClockProject\Debug\Clock.exe
